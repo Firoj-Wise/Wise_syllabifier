@@ -85,5 +85,3 @@ python -m unittest discover tests
 
 This project is a Python implementation inspired by the work found at:
 [https://github.com/santabasnet](https://github.com/santabasnet)
-
-Special thanks to the open-source community for their contributions to Nepali NLP.
